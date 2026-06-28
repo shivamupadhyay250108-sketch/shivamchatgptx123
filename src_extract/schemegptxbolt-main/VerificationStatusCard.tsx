@@ -1,8 +1,4 @@
-import {
-  ShieldCheck,
-  AlertTriangle,
-  XCircle,
-} from 'lucide-react'
+import { ShieldCheck, TriangleAlert as AlertTriangle, Circle as XCircle } from 'lucide-react'
 
 export default function VerificationStatusCard() {
   return (

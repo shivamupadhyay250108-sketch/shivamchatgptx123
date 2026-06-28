@@ -1,8 +1,4 @@
-import {
-  Clock3,
-  AlertCircle,
-  CheckCircle2,
-} from "lucide-react";
+import { Clock3, CircleAlert as AlertCircle, CircleCheck as CheckCircle2 } from "lucide-react";
 
 const opportunities = [
   {

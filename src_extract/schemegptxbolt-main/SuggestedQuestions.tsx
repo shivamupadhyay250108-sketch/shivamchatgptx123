@@ -80,3 +80,5 @@ export default function SuggestedQuestions({
     </div>
   );
 }
+
+export { SuggestedQuestions }

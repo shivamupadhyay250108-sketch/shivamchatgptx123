@@ -1,9 +1,5 @@
 import { useEffect, useState } from "react";
-import {
-  GraduationCap,
-  CheckCircle2,
-  TrendingUp,
-} from "lucide-react";
+import { GraduationCap, CircleCheck as CheckCircle2, TrendingUp } from "lucide-react";
 
 import type { Database } from "../../lib/database.types";
 import { getSuccessStories } from "../../services/scheme.service";

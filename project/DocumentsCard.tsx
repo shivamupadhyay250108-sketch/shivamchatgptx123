@@ -1,4 +1,4 @@
-import { FileText, CheckCircle } from 'lucide-react'
+import { FileText, CircleCheck as CheckCircle } from 'lucide-react'
 
 const documents = [
   {

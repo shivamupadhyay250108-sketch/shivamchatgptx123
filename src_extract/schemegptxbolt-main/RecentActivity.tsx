@@ -1,9 +1,4 @@
-import {
-  Bell,
-  CheckCircle,
-  Clock,
-  Sparkles,
-} from 'lucide-react'
+import { Bell, CircleCheck as CheckCircle, Clock, Sparkles } from 'lucide-react'
 
 const activities = [
   {

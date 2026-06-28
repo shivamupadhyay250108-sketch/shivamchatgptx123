@@ -1,8 +1,4 @@
-import {
-  FileText,
-  CheckCircle2,
-  AlertTriangle,
-} from "lucide-react";
+import { FileText, CircleCheck as CheckCircle2, TriangleAlert as AlertTriangle } from "lucide-react";
 
 interface Props {
   name: string;

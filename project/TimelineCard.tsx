@@ -1,11 +1,4 @@
-import {
-  Calendar,
-  Clock3,
-  Sparkles,
-  Rocket,
-  Shield,
-  CheckCircle2,
-} from "lucide-react";
+import { Calendar, Clock3, Sparkles, Rocket, Shield, CircleCheck as CheckCircle2 } from "lucide-react";
 
 import type { Scheme } from "../../lib/database.types";
 
