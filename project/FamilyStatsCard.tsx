@@ -1,9 +1,4 @@
-import {
-  Users,
-  FileCheck,
-  AlertTriangle,
-  PiggyBank,
-} from 'lucide-react'
+import { Users, FileCheck, TriangleAlert as AlertTriangle, PiggyBank } from 'lucide-react'
 
 export default function FamilyStatsCard() {
   return (

@@ -1,4 +1,4 @@
-import { AlertCircle } from 'lucide-react'
+import { CircleAlert as AlertCircle } from 'lucide-react'
 
 const alerts = [
   {

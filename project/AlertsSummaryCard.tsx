@@ -1,9 +1,4 @@
-import {
-  Bell,
-  AlertTriangle,
-  FileWarning,
-  Calendar,
-} from 'lucide-react'
+import { Bell, TriangleAlert as AlertTriangle, FileWarning, Calendar } from 'lucide-react'
 
 export default function AlertsSummaryCard() {
   return (

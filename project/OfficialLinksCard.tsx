@@ -1,10 +1,4 @@
-import {
-  Globe,
-  ExternalLink,
-  HelpCircle,
-  ShieldCheck,
-  FileText,
-} from "lucide-react";
+import { Globe, ExternalLink, CircleHelp as HelpCircle, ShieldCheck, FileText } from "lucide-react";
 import type { Scheme } from "../../lib/database.types";
 type Props = {
   scheme: Scheme;
